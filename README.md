@@ -1,6 +1,6 @@
 # Hi, I'm Hieu 👋
 
-Senior Software Engineer with more than 5 years of commercial experience. I have excellent knowledge in backend development on Java. In general worked with monolithic, microservice and serverless architectures. Big part of my activities is open-source.
+I'm a third-year student with a strong interest in web development. I have a basic understanding of web technologies and enjoy learning about new tools and frameworks. Currently, I am exploring backend development and working on various web projects to enhance my skills.
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
