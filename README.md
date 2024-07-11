@@ -2,14 +2,6 @@
 
 I'm a third-year student with a strong interest in web development. I have a basic understanding of web technologies and enjoy learning about new tools and frameworks. Currently, I am exploring backend development and working on various web projects to enhance my skills.
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuminhhieuu&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuminhhieuu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
-
 <h2 align="center">How to reach me:</h2>
 <p align="center">
   <a href="https://www.facebook.com/minhhieu.vu.31508">
@@ -24,6 +16,16 @@ I'm a third-year student with a strong interest in web development. I have a bas
   <br>
   📫 Email: <a href="mailto:hieuminh2620@gmail.com">hieuminh2620@gmail.com</a>
 </p>
+
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuminhhieuu&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuminhhieuu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</p>
+
+
 
 
 
