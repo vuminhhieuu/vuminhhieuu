@@ -5,6 +5,8 @@ Senior Software Engineer with more than 5 years of commercial experience. I have
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuminhhieuu&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuminhhieuu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
