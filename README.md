@@ -1,36 +1,66 @@
-# Hi, I'm Vu Minh Hieu ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<img align="right" src="https://visitcount.itsvg.in/api?id=vuminhhieuu&icon=5&color=0" />
 
-## Connect with me:
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vu+Minh+Hieu!;" />
+</h1>
+
+
+<h3 align="center">A Full Stack Developer in Training</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🌱 I’m currently learning **backend with Node.js and Express.js**
+ 
+ ⚒️ I’m currently working on **music website using the MVC architecture**
+
+ 🪬 Fun fact **I love playing football and listening to music**
+ 
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:hieuminh2620@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   <a href="https://www.facebook.com/minhhieu.vu.31508">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://t.me/minhhieuu2604">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/minhhieu.vu/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <br>
-  📫 Email: <a href="mailto:hieuminh2620@gmail.com">hieuminh2620@gmail.com</a>
+</div>
 
-## Languages and Tools
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=%2300599C) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
-![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=green) 
-![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm&logoColor=%23CB3837) 
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=%2361DAFB) 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=%2300f) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=%234ea94b) 
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=%23FF6C37) 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,nodejs,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,bootstrap,html,css,vscode,github,git" />
+</div>
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuminhhieuu&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuminhhieuu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
+<br/>
+<hr/>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vuminhhieuu&icon=0&color=0" alt="Profile views">
-</p>
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vuminhhieuu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=vuminhhieuu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vuminhhieuu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+<hr/>
