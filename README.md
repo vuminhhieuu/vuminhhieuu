@@ -9,8 +9,6 @@
 <div align="center">
     
 🌱 Currently, I’m diving into **Node.js, Express.js for backend development** and **Docker, AWS for system deployment**.
-    
-🎵 Working on a **music website project** using MVC architecture with a focus on scalability and system optimization.  
 
 ⚽ Fun fact: **I’m a football enthusiast and love discovering new music genres!**  
 </div>
